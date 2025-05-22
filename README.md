@@ -36,8 +36,6 @@ Welcome to my GitHub profile! I’m a tech enthusiast, aspiring developer, and a
 
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/bestoism/bestoism/output/github-contribution-grid-snake.svg" alt="Snake animation">
-
 🚧 This profile is always under construction — stay tuned for more updates!
 
 </div>
