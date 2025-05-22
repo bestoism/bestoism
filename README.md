@@ -19,14 +19,16 @@ Welcome to my GitHub profile! I’m a tech enthusiast, aspiring developer, and a
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link-here)  
-[![Gmail](https://img.shields.io/badge/Email-Dikirim-orange?style=flat&logo=gmail)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ryan-besto-saragih/)  
+[![Gmail](https://img.shields.io/badge/Email-Dikirim-orange?style=flat&logo=gmail)](mailto:bestoisme24@gmail.com)
 
 ---
 
 ## 📍 Profile Info
 
 ![GitHub followers](https://img.shields.io/github/followers/bestoism?label=Followers&style=social)
+
+> 👁️‍🗨️ **Profile Views Badge**:
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=bestoism.visitor-badge)
 
 ---
