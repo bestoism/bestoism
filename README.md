@@ -6,8 +6,15 @@ Welcome to my GitHub profile! I’m a tech enthusiast, aspiring developer, and a
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bestoism&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestoism&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=bestoism&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+![Besto's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestoism&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestoism&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
