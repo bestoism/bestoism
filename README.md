@@ -24,11 +24,4 @@ Welcome to my GitHub profile! I’m a tech enthusiast, aspiring developer, and a
 
 ---
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ryan-besto-saragih/)  
-[![Gmail](https://img.shields.io/badge/Email-Dikirim-orange?style=flat&logo=gmail)](mailto:bestoisme24@gmail.com)
-
----
-
 > 🚧 This profile is always under construction — stay tuned for more updates!
