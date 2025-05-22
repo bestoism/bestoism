@@ -5,8 +5,6 @@ I'm a tech enthusiast, aspiring developer, and always curious about how things w
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bestoism&theme=radical&hide_border=true)](https://git.io/streak-stats)   
