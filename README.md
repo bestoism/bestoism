@@ -20,8 +20,9 @@ Welcome to my GitHub profile! I’m a tech enthusiast, aspiring developer, and a
 
 ## 🏆 GitHub Trophies
 
+<div align="center">
 [![Trophies](https://github-profile-trophy.vercel.app/?username=bestoism&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
+</div>
 ---
 
 > 🚧 This profile is always under construction — stay tuned for more updates!
