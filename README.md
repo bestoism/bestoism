@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I’m a tech enthusiast, aspiring developer, and a
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bestoism&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestoism&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
