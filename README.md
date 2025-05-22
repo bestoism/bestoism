@@ -5,31 +5,11 @@ I'm a tech enthusiast, aspiring developer, and always curious about how things w
 
 ---
 
-<div align="center">
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=bestoism.bestoism)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bestoism&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-![Besto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bestoism&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bestoism&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=bestoism&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bestoism&theme=radical&hide_border=true)](https://git.io/streak-stats)   
 
 </div>
 
