@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a tech enthusiast, aspiring developer, and a
 
 <div align="center">
   
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/bestoism.bestoism.svg)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=bestoism.bestoism)
 
 </div>
 
