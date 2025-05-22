@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Besto
 
-<!--
-**bestoism/bestoism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a tech enthusiast, aspiring developer, and always curious about how things work behind the scenes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bestoism&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestoism&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=bestoism&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link-here)  
+[![Gmail](https://img.shields.io/badge/Email-Dikirim-orange?style=flat&logo=gmail)](mailto:youremail@gmail.com)
+
+---
+
+## 📍 Profile Info
+
+![GitHub followers](https://img.shields.io/github/followers/bestoism?label=Followers&style=social)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=bestoism.visitor-badge)
+
+---
+
+> 🚧 This profile is always under construction — stay tuned for more updates!
