@@ -14,6 +14,14 @@ I'm a tech enthusiast, aspiring developer, and always curious about how things w
 ---
 
 <div align="center">
+  
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=bestoism)
+
+</div>
+
+---
+
+<div align="center">
 
 🚧 This profile is always under construction — stay tuned for more updates!
 
