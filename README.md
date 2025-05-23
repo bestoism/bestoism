@@ -14,16 +14,20 @@ I'm a tech enthusiast, aspiring developer, and always curious about how things w
 ---
 
 <div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestoism&layout=compact&theme=dracula)
+
+🚧 This profile is always under construction — stay tuned for more updates!
 
 </div>
 
 ---
 
 <div align="center">
+  
+  <img src="https://raw.githubusercontent.com/bestoism/bestoism/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
-🚧 This profile is always under construction — stay tuned for more updates!
+  <br/><br/>
+
+  <sub>Made with ❤️ by Besto — keep building, keep dreaming 🚀</sub>
 
 </div>
 
