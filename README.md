@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Besto
 
 Welcome to my GitHub profile!  
-I'm a tech enthusiast, aspiring developer, and always curious about how things work behind the scenes.
 
 ---
 
