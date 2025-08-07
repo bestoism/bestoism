@@ -1,30 +1,28 @@
-# 👋 Hi, I'm Besto
+<div align="center">
 
-Welcome to my GitHub profile!  
+# 👋 Hi, I'm Besto  
+🎓 Aspiring Data Scientist | 💡 Machine Learning Enthusiast | ☁️ Cloud Learner
 
 ---
 
-<div align="center">
+Welcome to my GitHub profile!  
+I'm passionate about turning data into actionable insights and building intelligent systems that solve real-world problems.  
+Always exploring the intersection of **data, code, and impact**.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bestoism&theme=radical&hide_border=true)](https://git.io/streak-stats)   
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=bestoism&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ## 📬 Let's Connect!
 
-📎 [LinkedIn – Ryan Besto Saragih](https://www.linkedin.com/in/ryanbesto/)  
+<a href="https://www.linkedin.com/in/ryanbesto/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ryan%20Besto%20Saragih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>  
+
 🧠 Always learning, always building — thanks for stopping by!
 
 ---
 
-<div align="center">
-
 🚧 This profile is always under construction — stay tuned for more updates!
 
 </div>
-
----
-
-
