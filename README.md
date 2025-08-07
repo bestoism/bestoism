@@ -12,6 +12,13 @@ Welcome to my GitHub profile!
 
 ---
 
+## 📬 Let's Connect!
+
+📎 [LinkedIn – Ryan Besto Saragih](https://www.linkedin.com/in/ryanbesto/)  
+🧠 Always learning, always building — thanks for stopping by!
+
+---
+
 <div align="center">
 
 🚧 This profile is always under construction — stay tuned for more updates!
