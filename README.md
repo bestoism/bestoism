@@ -10,6 +10,8 @@ I'm passionate about turning data into actionable insights and building intellig
 Always exploring the intersection of **data, code, and impact**.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bestoism&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Besto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bestoism&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestoism&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -17,7 +19,10 @@ Always exploring the intersection of **data, code, and impact**.
 
 <a href="https://www.linkedin.com/in/ryanbesto/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Ryan%20Besto%20Saragih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>  
+</a>
+<a href="https://www.kaggle.com/ryanbesto" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-Ryan%20Besto-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+</a>
 
 🧠 Always learning, always building — thanks for stopping by!
 
