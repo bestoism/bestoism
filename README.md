@@ -10,8 +10,6 @@ I'm passionate about turning data into actionable insights and building intellig
 Always exploring the intersection of **data, code, and impact**.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bestoism&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![Besto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bestoism&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestoism&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
