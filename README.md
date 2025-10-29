@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Besto  
+# 👋 **Hi, I'm Besto**
 🎓 Aspiring Data Scientist | 💡 Machine Learning Enthusiast | ☁️ Cloud Learner
 
 ---
@@ -10,7 +10,6 @@ I'm passionate about turning data into actionable insights and building intellig
 Always exploring the intersection of **data, code, and impact**.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bestoism&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 
 ---
 
