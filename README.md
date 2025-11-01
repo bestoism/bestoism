@@ -5,10 +5,15 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Turning+Data+into+Impact;Building+Intelligent+Systems;Always+Learning+Something+New!" alt="Typing SVG" />
+</p>
+
 Welcome to my GitHub profile!  
 I'm passionate about turning data into actionable insights and building intelligent systems that solve real-world problems.  
 Always exploring the intersection of **data, code, and impact**.
 
+--- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bestoism&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
